@@ -115,13 +115,6 @@ code 1/
 3. **Responsive:** Use `minmax()` in grid for auto-scaling cards
 4. **Depth:** Layer multiple glass elements for 3D effect
 
-## 📱 Social Media
-
-Share your creation with these hashtags:
-```
-#webdevelopment #frontend #vuejs #glassmorphism #uidesign
-```
-
 ## 📄 License
 
 MIT License - Free to use in personal and commercial projects.
